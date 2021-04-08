@@ -1,6 +1,6 @@
 html,
 body {background-color: white;}
-header,
+header{background-color: grey;}
 #intro {
  height: 100%;
 }
