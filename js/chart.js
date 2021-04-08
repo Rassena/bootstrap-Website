@@ -1,10 +1,7 @@
 var chartData = {
-    labels: ["S", "M", "T", "W", "T", "F", "S"],
+    labels: ["Photo 1", "Photo 2", "Photo 3"],
     datasets: [{
-      data: [589, 445, 483, 503, 689, 692, 634],
-    },
-    {
-      data: [639, 465, 493, 478, 589, 632, 674],
+      data: [589, 245, 383],
     }]
   };
   
